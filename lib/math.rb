@@ -1,5 +1,5 @@
 def addition(1, 2)
-  1 + num2 
+  1 + 2 
 end
 addition(1, 2)
 
